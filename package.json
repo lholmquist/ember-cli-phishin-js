@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-phishin-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ember CLI Addon for the phisin-js wrapper api",
   "directories": {
     "doc": "doc",
