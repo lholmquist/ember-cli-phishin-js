@@ -1,6 +1,9 @@
 # Ember-cli-phishin-js
 
-This README outlines the details of collaborating on this Ember addon.
+Addon for https://github.com/lholmquist/phishin-js
+
+which is a wrapper for http://phish.in/api-docs
+
 
 ## Installation
 
