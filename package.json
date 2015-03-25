@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-phishin-js",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Ember CLI Addon for the phisin-js wrapper api",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -15,7 +15,10 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": {
+    "name": "Lucas Holmquist",
+    "email": "lucas.holmquist@gmail.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
@@ -33,7 +36,9 @@
     "ember-export-application-global": "^1.0.2"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "phish",
+    "phishin-js"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
